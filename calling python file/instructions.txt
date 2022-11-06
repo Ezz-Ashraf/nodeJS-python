@@ -1,0 +1,8 @@
+By Ezz Ashraf
+1-install python
+2-install NodeJS
+3-write in terminal or CMD node index
+
+
+Note:-
+If you have pyhton3 change the first parameter in line 3 to python3 
